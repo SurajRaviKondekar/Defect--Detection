@@ -13,13 +13,13 @@ Features
 5. Gradio web interface for prediction
 
 Technology Used
-Python
-Open CV
-TensorFlow
-Keras
-NumPy
-Pandas
-Scikit-learn
+Python,
+Open CV,
+TensorFlow,
+Keras,
+NumPy,
+Pandas,
+Scikit-learn and
 Gradio
 
 Dataset

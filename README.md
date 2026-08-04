@@ -42,6 +42,6 @@ Future Improvements
 3. ROS2 integration
 4. Edge AI Deployment
 
-Author
+Author                                                                                                                       
 Suraj Ravi Kondekar
 M.Tech Robotics Engineering|B.E Computer Science & Enginnering

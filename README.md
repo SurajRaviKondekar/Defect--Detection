@@ -1,4 +1,4 @@
-# MVTech AD - Transistor DataSet
+# MVTech AD - Transistor Dataset
 Computer Vision Defect Detection Using Deep Learning
 
 Project Overview

@@ -12,7 +12,7 @@ Features
 4. performance evaluation using Accuracy, Precision, Recall, F1-Score, and Confusion matrix
 5. Gradio web interface for prediction
 
-Technology Used
+Technology Used: 
 Python,
 Open CV,
 TensorFlow,

@@ -1,7 +1,7 @@
 # MVTech AD - Transistor Dataset
 Computer Vision Defect Detection Using Deep Learning
 
-Project Overview
+Project Overview                                                                                                             
 This Project present an AI-powered industrial defect detection system developed using Computer vision and Deep Learning.
 The system automatically classifies Components as defective or non-defective, reducing manual inspection effort and improving Quality control.
 
